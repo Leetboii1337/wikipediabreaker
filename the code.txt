@@ -1,7 +1,11 @@
 Run this one first (dont worry if it throws an error, ignore it)
+
 !pip install xhtml2pdf wikipedia-api deep-translator
 
+
+
 now run this one. it has a text box. type in the name of the article you would like to see absolutely destroyed and hit enter. you will get an "snapshot" every 5 translations. or more, if thats what you desire
+
 import os
 import re
 import random
